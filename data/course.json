@@ -1,0 +1,64 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Public Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Developmental Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "International Development"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Industrial Organization"
+    ]
+  ],
+  "legacy_uid": "61705078-827d-0319-8d4b-a062afa6e6f8",
+  "instructors": {
+    "content": [
+      "bc2e78b2-3452-c1c2-2b90-da196b4e3d85"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d3dc5070-b9af-91dc-db2d-5c4b18218f26",
+    "website": "11-491j-economic-development-policy-analysis-and-industrialization-fall-2004"
+  },
+  "course_title": "Economic Development, Policy Analysis, and Industrialization",
+  "course_description": "This class analyzes the theoretical and historical reasons why governments in latecomer countries have intervened with a wide array of policies to foster industrial development at various turning points: the initiation of industrial activity; the diversification of the industrial base; the restructuring of major industrial institutions; and the entry into high-technology sectors.\n",
+  "department_numbers": [
+    "11",
+    "17"
+  ],
+  "extra_course_numbers": "17.176J",
+  "primary_course_number": "11.491J",
+  "course_image_thumbnail": {
+    "content": "df999c6c-e1c8-0f7f-347e-a990ece7bb4f",
+    "website": "11-491j-economic-development-policy-analysis-and-industrialization-fall-2004"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "71d57b8a-f833-4b01-aabd-d4c9bf974a3e",
+  "site_short_id": "11.491j-fall-2004",
+  "site_url_path": "courses/11-491j-economic-development-policy-analysis-and-industrialization-fall-2004",
+  "title": "Course Metadata"
+}
